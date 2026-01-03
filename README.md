@@ -118,7 +118,7 @@ A: arassuh, kerum najunge bolge
 
 ### Git Commits
 ```
-fix: login bug kochyum
+fix: login bug gochim
 feat: dark mode chuka
 refactor: API code jungri
 ```
