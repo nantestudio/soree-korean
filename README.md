@@ -111,9 +111,9 @@ Write what you **hear** in connected speech:
 
 ### Chat / Slack / Discord
 ```
-A: kuya merge haedo dweh?
+A: ije merge hedo dweh?
 B: jamkan, review jungiya
-A: arassuh, keurum natjunge bwa
+A: arassuh, kerum najunge bolge
 ```
 
 ### Git Commits
