@@ -106,7 +106,7 @@ Write what you **hear** in connected speech:
 // iguh kochyuya dweh (이거 고쳐야 돼)
 // weh an dohraga? (왜 안 돌아가?)
 // testeu haebwassuh? (테스트 해봤어?)
-// na junghwa (나 점심 먹으러 감)
+// gamsahapnida (감사합니다)
 ```
 
 ### Chat / Slack / Discord
