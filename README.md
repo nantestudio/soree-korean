@@ -131,9 +131,9 @@ This isn't a rigid standard. It's a starting point.
 
 Use it. Adapt it. Share it. As more Korean developers adopt phonetic romanization, we'll naturally converge on what works best.
 
-**uri kkiri sseugo, uri kkiri jungchakhe.**
-(우리끼리 쓰고, 우리끼리 정착해.)
-*We write it together, we settle it together.*
+**urikiri ssugo, uriga manduroga.**
+(우리끼리 쓰고, 우리가 만들어가.)
+*We write it together, we shape it together.*
 
 ---
 
