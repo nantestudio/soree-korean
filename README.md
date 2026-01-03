@@ -45,7 +45,7 @@ These are guidelines, not laws. This system will naturally evolve and **jungchak
 
 | Hangul | Soree | Notes |
 |--------|-------|-------|
-| ㄱ ㅋ ㄲ | **g** / **k** | We own K. K-pop, K-drama, K-food. It's ours. |
+| ㄱ ㅋ ㄲ | **g** / **k** | `g` when soft, `k` when hard |
 | ㄷ ㅌ ㄸ | **t** / **d** | `t` when sharp, `d` when soft |
 | ㅂ ㅍ ㅃ | **p** / **b** | `p` when sharp, `b` when soft |
 | ㅈ ㅊ ㅉ | **j** / **ch** | `j` soft, `ch` aspirated |
